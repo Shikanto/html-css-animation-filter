@@ -55,7 +55,11 @@
     } to { 
         transform: rotate(360deg); 
     }
+    /* 0% {
+        transform: rotate(1turn);
+    } */
 }
+
 
 .ex-11-icon:hover{
       animation: RotateAndBack 2s ease-in;
